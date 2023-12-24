@@ -1,0 +1,25 @@
+#boas-vindas {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 800px;
+}
+
+#boas-vindas h2,
+#boas-vindas p {
+  margin-bottom: 1rem;
+}
+
+#boas-vindas p {
+  color: #8435de;
+}
+
+#boas-vindas img {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  height: auto;
+  width: 60%;
+  mix-blend-mode:lighten-out;
+}
+

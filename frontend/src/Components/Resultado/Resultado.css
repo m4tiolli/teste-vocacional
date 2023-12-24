@@ -1,0 +1,37 @@
+#resultado img {
+  margin-bottom: 2rem;
+  max-width: 450px;
+  height: auto;
+  width: 50%;
+}
+
+#resultado button {
+  margin-bottom: 1.5rem;
+  max-width: 450px;
+}
+
+#texto-carreira {
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+#texto-carreira p {
+  max-width: 60%;
+}
+
+#resultado h1 {
+  color: #0bfc03;
+}
+
+#resultado h2 {
+  margin-bottom: 1rem;
+}
+
+#outro-matches {
+  margin-bottom: 2rem;
+}
+
+#outro-matches h3 {
+  margin-bottom: 0.5rem;
+}
